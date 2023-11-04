@@ -1,5 +1,10 @@
 Mega Project List
 ========
+https://www.reddit.com/r/programming/comments/1isd63/want_to_learn_a_new_language_solve_these_100/
+https://www.reddit.com/r/programming/comments/1isd63/want_to_learn_a_new_language_solve_these_100/
+https://www.reddit.com/r/programming/comments/1isd63/want_to_learn_a_new_language_solve_these_100/
+https://www.reddit.com/r/programming/comments/1isd63/want_to_learn_a_new_language_solve_these_100/
+https://www.reddit.com/r/programming/comments/1isd63/want_to_learn_a_new_language_solve_these_100/
 
 A list of practical projects that anyone can solve in any programming language (See [solutions](https://github.com/thekarangoel/Projects-Solutions)). These projects are divided in multiple categories, and each category has its own folder.
 
